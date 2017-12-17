@@ -1,2 +1,0 @@
-# project-infinity
-management system 
